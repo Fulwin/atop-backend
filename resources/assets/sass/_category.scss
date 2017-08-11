@@ -1,0 +1,39 @@
+.category-tree-wrap{
+  .tree-title{
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  .category-tree{
+    list-style: none;
+    border: dotted 1px #ccc;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left:15px;
+    margin-right:15px;
+    .branch{
+      margin-bottom: 4px;
+      color: #20a0ff;
+      cursor: pointer;
+      width: 80%;
+      margin-top: 20px;
+      font-size: 15px;
+      &.is-sub{
+        padding-left: 20px;
+        margin-top: 0px;
+        font-size: 14px;
+      }
+      &.is-sub-sub{
+        padding-left: 40px;
+        margin-top: 0px;
+        font-size: 14px;
+      }
+      &:hover{
+        color: #333;
+      }
+      .del-btn{
+        margin-left: 10px;
+        color: #ff0000;
+      }
+    }
+  }
+}

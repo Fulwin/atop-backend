@@ -1,0 +1,16 @@
+{
+  "trigger": {
+    "title": "文件 ..."
+  },
+  "manager": {
+    "title": "资源管理器",
+    "newFolderBtnTitle": "新建目录",
+    "uploadBtnTitle": "上传",
+    "backToParentBtnTitle": "上级目录",
+    "deleteBtnTitle": "删除",
+    "copyPathBtnTitle": "拷贝路径",
+    "filePreview": "文件预览",
+    "rootFolderName": "根目录",
+    "rootFolderPrefix": "Upload"
+  }
+}

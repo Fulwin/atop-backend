@@ -1,0 +1,16 @@
+{
+  "trigger": {
+    "title": "Browse ..."
+  },
+  "manager": {
+    "title": "Media Manager",
+    "newFolderBtnTitle": "New Folder",
+    "uploadBtnTitle": "Upload",
+    "backToParentBtnTitle": "Parent",
+    "deleteBtnTitle": "Delete",
+    "copyPathBtnTitle": "Copy Path",
+    "filePreview": "File Preview",
+    "rootFolderName": "Root",
+    "rootFolderPrefix": "Upload"
+  }
+}
